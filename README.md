@@ -1,2 +1,2 @@
-# projet SNIR23
+# Projet SNIR23
 
